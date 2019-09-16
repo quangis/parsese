@@ -4,7 +4,7 @@ import json
 import re
 
 if __name__ == '__main__':
-    with open('./test_data.json') as f:
+    with open('./analyzed_question.json') as f:
         questions = json.load(f)
         expression = '1.*a.*' # matches a where question with an activity.
         matcher = re.compile(expression)
