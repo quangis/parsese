@@ -5,6 +5,7 @@ import re
 
 
 def question_sequence_to_string(question_sequence):
+    """Returns the shorthand notation of the semantically encoded question."""
     return "".join([f"[{token['tag']}:{token['value']}]" for token in question_sequence])
 
 if __name__ == '__main__':
