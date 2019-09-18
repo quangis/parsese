@@ -105,13 +105,39 @@ def explore_what():
     extract_what_codes()
     search_for_what_intent()
 
+HOW_MANY_MUCH_REGEX = re.compile(r".*<.::how (many|much)[^>]*>.*",
+    flags=re.IGNORECASE)
+"""
+The regex matches "How many/much ...?" questions. The hypothesis is that these
+questions all have *amounts* as intents (collective amounts for `many`, and 
+field amounts for `much`).
+"""
+
+CAUSALITY_REGEX = re.compile(r".*(<.::affect[^>]*>|<.::effect[^>]*>|<.::influenc[^>]*>|<.::impact[^>]*>).*", flags=re.IGNORECASE)
                       
 if __name__ == '__main__':
     codes = list('ntoqasrpd')                  
                       
     with open('./analyzed_question.json') as f:
         questions = json.load(f)
+
         for q in questions:
             q['shorthand'] = question_sequence_to_string(q['all_info'])
-            print(q['shorthand'])
             q['intent_shorthand'] = f"<{q['intent_code']}>{question_sequence_to_string(q['intent_info'])}"
+
+        explore_spatial_extent()
+        
+        explore_relation()
+
+        explore_what()
+
+        with open('./hmm.txt', 'w') as f1, open('./hmm_intent_objects_types.txt', 'w') as f2:
+            for q in questions:
+                if HOW_MANY_MUCH_REGEX.match(q['shorthand']):
+                    print(q['question'], file=f1)
+                    print(" ".join([token['value'] for token in q['intent_info'] if token['tag'] in ['o', 't']]), file=f2)
+
+        with open('./causality.txt', 'w') as f3:
+            for q in questions:
+                if CAUSALITY_REGEX.match(q['shorthand']):
+                    print(f"\t{q['question']}?", file=f3)
