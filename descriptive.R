@@ -1,4 +1,4 @@
-source <- "C:/Users/Enkhbold/PycharmProjects/Test/"
+source <- "./"
 
 relationFile <- "relation.csv"
 extentFile <- "spatial_extent.csv"
@@ -63,6 +63,6 @@ analyzeWhats <- function(){
 
 }
 
-#plotRelationFrequencies()
+plotRelationFrequencies()
 
 analyzeWhats()

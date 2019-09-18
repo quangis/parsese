@@ -8,6 +8,7 @@ relation.csv
 spatial_extent.csv
 what_codes.csv
 what_terms.csv
+Rplots.pdf
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
