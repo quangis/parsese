@@ -27,12 +27,13 @@ if __name__ == '__main__':
         for q in questions:
             q['shorthand'] = question_sequence_to_string(q['all_info'])
 
-        print('How many/much questions:')
-        for q in questions:
-            if HOW_MANY_MUCH_REGEX.match(q['shorthand']):
-                print(f"\t{q['question']}?")
+        with open('./hmm.txt', 'w') as f1, open('./hmm_intent_objects_types.txt', 'w') as f2:
+            for q in questions:
+                if HOW_MANY_MUCH_REGEX.match(q['shorthand']):
+                    print(q['question'], file=f1)
+                    print(" ".join([token['value'] for token in q['intent_info'] if token['tag'] in ['o', 't']]), file=f2)
 
-        print('Causality questions:')
-        for q in questions:
-            if CAUSALITY_REGEX.match(q['shorthand']):
-                print(f"\t{q['question']}?")
+        with open('./causality.txt', 'w') as f3:
+            for q in questions:
+                if CAUSALITY_REGEX.match(q['shorthand']):
+                    print(f"\t{q['question']}?", file=f3)
