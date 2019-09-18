@@ -17,15 +17,22 @@ questions all have *amounts* as intents (collective amounts for `many`, and
 field amounts for `much`).
 """
 
-# CAUSALITY_REGEX = re.compile(r"", flags=re.IGNORECASE)
+CAUSALITY_REGEX = re.compile(r".*(<.::affect[^>]*>|<.::effect[^>]*>|<.::influenc[^>]*>|<.::impact[^>]*>).*", flags=re.IGNORECASE)
 
 
 if __name__ == '__main__':
     with open('./analyzed_question.json') as f:
         questions = json.load(f)
 
-        print('How many/much questions:')
         for q in questions:
             q['shorthand'] = question_sequence_to_string(q['all_info'])
+
+        print('How many/much questions:')
+        for q in questions:
             if HOW_MANY_MUCH_REGEX.match(q['shorthand']):
+                print(f"\t{q['question']}?")
+
+        print('Causality questions:')
+        for q in questions:
+            if CAUSALITY_REGEX.match(q['shorthand']):
                 print(f"\t{q['question']}?")
