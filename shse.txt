@@ -1,0 +1,409 @@
+<1torn><1::Where><::are><::the><t::houses><::for><o::sale><r::in><n::Utrecht>
+<1toadrn><1::Where><::are><::the><t::houses><::for><o::sale><::and><a::built><d::between 1990 and 2000><r::in><n::Utrecht>
+<2torrqtrn><2::What houses><t::houses><::are><::for><o::sale><::and><r::within><::500><::m><r::from><::a><q::main><t::road><r::in><n::Utrecht>
+<2torrqtrn><2::What houses><t::houses><::are><::for><o::sale><::and><r::within><::1><::km><r::from><::the><q::nearest><t::school><r::in><n::Utrecht>
+<2torrqtrn><2::What houses><t::houses><::are><::for><o::sale><::and><r::within><::1><::km><r::from><::the><q::nearest><t::supermarket><r::in><n::Utrecht>
+<2tortrn><2::What houses><t::houses><::are><::for><o::sale><r::in><t::urban areas><r::in><n::Utrecht>
+<2tortpoorn><2::What houses><t::houses><::are><:for><o::sale><r::in><t::neighborhoods><::with><p::low><o::crime><o::rates><r::in><n::Utrecht>
+<2totrn><2::What houses><t::houses><::are><:::for><o::sale><::and><::near><::to><t::parks><r::in><n::Utrecht>
+<1trnot><1::Where><::are><::5-star><t::hotels><r::in><n::the Happy Valley><o::ski><t::resort>
+<1taornot><1::Where><::are><::the><t::shops><::that><a::open><::at><o::18:00><r::in><n::Happy Valley><o::ski><t::resort>
+<1trtrnot><1::Where><::are><::the><t::cafes><r::in><t::forested areas><r::in><n::Happy Valley><o::ski><t::resort>
+<1otrnot><1::Where><::are><::the><o::ski><t::pistes><r::in><n::Happy Valley><o::ski><t::resort>
+<1otrnot><1::Where><::is><::the><::most><::popular><o::ski><t::piste><r::in><n::Happy Valley><o::ski><t::resort>
+<1potrnot><1::Where><::is><::the><p::longest><o::ski><t::piste><r::in><n::Happy Valley><o::ski><t::resort>
+<1potooornot><1::Where><::are><::the><p::longest><o::ski><t::piste><::â€™s><o::start><::and><o::end><o::positions><r::in><n::Happy Valley><o::ski><t::resort>
+<1trpotrnot><1::Where><::are><::the><t::hotel><r::within><::300><::m><::from><::the><p::longest><o::ski><t::piste><r::in><n::Happy Valley><o::ski><t::resort>
+<1tpoorn><1::where><::is><::the><t::neighborhood><::that><::has><::the><p::highest><o::crime><o::rate><r::in><n::Amsterdam>
+<2tporn><2::What><::are><::the><t::locations><::of><p::individual><o::crimes><r::in><n::Amsterdam>
+<1tpoorn><1::where><::is><::the><t::neighborhood><::that><::has><::the><p::highest><o::robbery><o::rate><r::in><n::Amsterdam>
+<1tpoorn><1::where><::is><::the><t::neighborhood><::that><::has><::the><p::highest><o::arson><o::rate><r::in><n::Amsterdam>
+<1tpoorn><1::where><::is><::the><t::neighborhood><::that><::has><::the><p::highest><o::burglary><o::rate><r::in><n::Amsterdam>
+<rt5oooddrn><r::For><::a><t::neighborhood><::,><5::how><::did><::the><o::crime><o::rate><o::change><::from><d::last year><::to><d::this year><r::in><n::Amsterdam>
+<2trtrn><2::What><::are><::the><t::locations><r::of><t::fire stations><r::in><n::Fort Worth>
+<2troaorotrn><2::What buildings><t::buildings><::are><r::within><::1><o::minute><::of><a::driving><o::time><r::from><::a><o::fire><t::station><r::in><n::Fort Worth>
+<2trooaorotrn><2::What buildings><t::buildings><::are><r::within><::2><o::minutes><::but><::not><::1><o::minute><::of><a::driving><o::time><r::from><::a><o::fire><t::station><r::in><n::Fort Worth>
+<2troaorotrn><2::What schools><t::schools><::are><::not><r::within><::3><o::minutes><::of><a::driving><o::time><r::from><::a><o::fire><t::station><r::in><n::Fort Worth>
+<3otpoortrn><3::Which fire station><o::fire><t::station><::is><p::nearest><::to><::an><o::incident><o::call><r::at><::a><::given><t::location><r::in><n::Fort Worth>
+<1oorn><1::Where><::did><::the><o::hurricane><o::form><r::in><n::Oleander>
+<1oarn><1::Where><::did><::the><o::hurricane><a::dissipate><r::in><n::Oleander>
+<2oorn><2::What><::was><::the><o::trajectory><::of><::a><o::hurricane><r::in><n::Oleander>
+<1orn><1::Where><::was><::the><::most><::intense><o::hurricane><r::in><n::Oleander>
+<1porn><1::Where><::was><::the><p::fastest><o::hurricane><r::in><n::Oleander>
+<6qtaorn><6::How many buildings><q::many><t::buildings><::are><a::affected><::by><::a><o::hurricane><r::in><n::Oleander>
+<2otaorn><2::What types of buildings><o::types><t::buildings><::are><::mostly><a::affected><::by><::a><o::hurricane><r::in><n::Oleander>
+<6oaorn><6::How many people><o::people><::are><a::affected><::by><::a><o::hurricane><r::in><n::Oleander>
+<1qtrn><1::Where><::are><::the><q::rocky><t::areas><r::in><n::Spain>
+<2torn><2::What areas><t::areas><::do><::have><o::slope><::larger><::than><::10><::%><r::in><n::Spain>
+<2toorn><2::What areas><t::areas><::do><::have><o::altitudes><::between><::700><::and><::2000><o::meters><r::in><n::Spain>
+<2tppoporn><2::What areas><t::areas><::do><::have><::an><p::annual><p::minimum><o::temperature><p::greater><::than><::0><o::degrees><r::in><n::Spain>
+<2tpoorn><2::What areas><t::areas><::do><::have><p::low><o::precipitation><::and><o::humidity><r::in><n::Spain>
+<2ttrn><2::What areas><t::areas><::are><::at><::least><::3><::km><::away><::from><::the><t::river><r::in><n::Spain>
+<2trtorn><2::What areas><t::areas><::are><::far><::away><r::from><::the><t::road><o::network><r::in><n::Spain>
+<1otpoorn><1::Where><::is><::the><o::distribution><t::area><::of><p::little><o::midwife><o::toad><r::in><n::Spain>
+<1qtrn><1::Where><::are><::the><q::industrial><t::areas><r::in><n::Utrecht>
+<1qtrn><1::Where><::is><::the><q::biggest><t::park><r::in><n::Utrecht>
+<1trorn><1::Where><::are><t::freeways><r::with><::4><o::lanes><r::in><n::Netherlands>
+<1toooorn><1::Where><::are><::the><t::freeways><::with><o::traffic><o::jams><::during><o::rush><o::hours><r::in><n::Netherlands>
+<3tpoorn><3::Which cities><t::cities><::do><::have><p::highest><o::crime><o::rate><r::in><n::Netherlands>
+<3tqoorn><3::Which neighborhood><t::neighborhood><::has><::the><q::highest><o::population><o::density><r::in><n::Netherlands>
+<1ptopo><1::Where><::is><::a><p::suitable><t::site><::for><::the><o::disposal><::of><p::radioactive><o::waste><::in><::UK>
+<2tpopo><2::What areas><t::areas><::do><::have><p::suitable><o::geology><::for><p::nuclear><o::waste><::in><::UK>
+<2topo><2::What areas><t::areas><::do><::not><::have><o::groundwater><::and><p::natural><o::resources><::beneath><::in><::UK>
+<2tpoo><2::What areas><t::areas><::do><::have><p::low><o::population><o::density><::in><::UK>
+<2tooopoo><2::What areas><t::areas><::do><::have><::a><o::population><o::density><::of><::300><o::persons><::per><p::square><o::kilometer><::or><o::less><::in><::UK>
+<2tq><2::What areas><t::areas><::are><q::accessible><::in><::UK>
+<2torqt><2::What areas><t::areas><::are><::minimum><::3><::km><::and><o::maximum><::5><::km><::away><r::from><::the><q::nearest><t::road><::in><::UK>
+<2trt><2::What areas><t::areas><::are><::not><r::within><t::conservation areas><::in><::UK>
+<1to><1::Where><::are><t::houses><::that><::have><::no><o::plumbing>
+<2oooorn><2::What><::is><::the><o::condition><::of><::the><o::water><o::treatment><o::plant><r::at><n::270 Fleet>
+<3poaooapo><3::Which><::is><::the><p::best><o::way><::to><a::send><::the><o::recycling><o::truck><::,><a::given><::these><p::pickup><o::points>
+<3oopo><3::Which emergency vehicle><o::emergency><o::vehicle><::is><p::closest><::to><::the><o::accident>
+<2orport1oo><2::What><::is><::the><o::pattern><r::of><p::public><o::spending><r::in><t::areas><1::where><::the><o::majority><::of><o::residents><::are><::African><::American>
+<qqtootsoood><::Do><q::more><q::commercial><t::buildings><::in><o::earth><::-><o::quake><t::zones><s::meet><o::quake><o::proofing><o::specification><::than><d::five years ago>
+<o5orqtornn><::At><::this><o::rate><::,><5::how long><::will><::it><::be><::before><::99><o::percent><r::of><::all><q::commercial><t::buildings><::meet><o::specifications><r::in><n::the Netherlands><n::Netherlands>
+<2poortrt><2::What><::would><::be><::the><p::economic><o::impact><::if><o::development><::were><::restricted><r::within><::100><t::yards><r::of><::the><t::river>
+<2qtrqt><2::What><::is><::the><q::best><t::site><r::for><::the><q::new><t::landfill>
+<2orpoqtport><2::What><::is><::the><o::relationship><r::between><::the><p::local><o::microclimate><::,><q::local><t::factories><::and><::the><p::social><o::structure><r::of><::surrounding><t::neighborhoods>
+<2osppooo4ptaort><2::What><::will><::be><::the><o::need><::to><s::adapt><::to><::the><p::local><p::public><o::transport><o::network><::and><::its><o::capacity><4::when><::a><p::new><t::neighborhood><::is><a::built><o::north><r::of><::the><t::town>
+<1torn3ooos><1::Where><::are><t::areas><::of><o::forestry><r::in><n::Europe><3::in which><o::Norwegian><o::Spruce><o::trees><::can><::be><s::found>
+<1poosrn><1::Where><::do><p::high><o::concentrations><::of><o::students><s::live><r::in><n::Utrecht>
+<1oon><1::Where><::have><o::glaciers><::retreated><::in><::the><o::European><n::Alps>
+<1oopos><1::Where><::have><o::changes><::to><::the><o::population><::of><p::polar><o::bears><s::occurred>
+<1oporortt><1::Where><::are><o::there><::over><::10,000><p::potential><o::customers><r::within><::a><::5-mile><o::radius><r::of><::a><t::railway><t::station>
+<aqot2ooo><::If><::we><a::build><::a><q::new><o::theme><t::park><::here><::,><2::what><::will><::be><::the><o::effect><::on><o::traffic><o::flows>
+<2oatoo><2::What><::would><::be><::the><o::time><::saving><::if><::we><a::delivered><::our><t::parcels><::using><::this><o::route><::,><::rather><::than><::an><o::alternative>
+<2poooorotrn><2::What><::will><::be><::the><p::long><::-><o::term><o::consequences><::of><o::farming><::and><o::forestry><r::for><::the><o::conservation><t::area><r::in><n::Zdarske Vrchy>
+<1tsrn><1::Where><::should><t::landscape conservation zones><::be><s::established><r::in><n::Zdarske Vrchy>
+<1ootsrn><1::Where><::are><o::stone><o::age><t::settlements><s::located><r::in><n::Europe>
+<1otrn><1::Where><::are><::all><::the><o::fire><t::stations><r::in><n::Utrecht>
+<1sotrrotqpoo><1::Where><::can><::I><s::find><o::holiday><t::accommodation><::that><::is><r::within><::1><::km><r::of><::a><o::wind><::surfing><t::beach><::and><q::accessible><::by><p::public><o::transport><::in><o::Italy>
+<1oqtrrqtrn><1::Where><::is><o::there><q::flat><t::land><r::within><::500><::m><r::of><::a><q::major><t::highway><r::in><n::the United Kingdom>
+<2oorn><2::What><::is><::the><o::flow><::of><o::traffic><r::along><n::A28 motorway>
+<5ooaorottrnn><5::How><::are><o::patterns><::of><o::retailing><::in><a::changing><o::response><r::to><::the><o::development><::of><::out><::-><::of><t::town><t::superstores><r::in><n::the US><n::US>
+<arqtrn5rttot><::If><::I><::I><a::move><r::to><::a><q::new><t::home><r::in><n::Ina Boudier - Bakkerlaan 1 3483VA Utrecht><::,><5::how far will><::be><r::from><::the><t::office><::,><t::gym><::or><o::coffee><t::shop>
+<1ott><1::Where><::is><::the><::proposed><o::wind><t::farm><t::location>
+<1t3ts><1::Where><::is><::the><t::region><3::in which><::the><t::store><::will><::be><s::located>
+<2oorn><2::What><::is><::the><o::pattern><::of><::land><o::use><r::in><n::Netherlands>
+<2oorport><2::What><::is><::the><o::flows><::of><o::traffic><r::along><p::major><o::routes><r::in><::this><t::area>
+<5toad><5::How><::has><t::land><o::use><a::changed><::over><d::the last 20 years>
+<3tpood><3::Which towns in the area><t::area><::have><::experienced><::the><p::greatest><o::population><o::growth><::in><d::recent years>
+<1otrtqorport><1::Where><::is><o::there><::an><t::area><r::of><t::privately owned land><::of><::a><q::suitable><o::size><::,><r::with><p::adequate><o::access><r::from><::an><::existing><t::road>
+<1trtppooqoo><1::Where><::is><::the><t::area><r::of><t::commercially zoned land><::and><::,><p::close><::to><p::major><o::transport><o::routes><::with><::a><q::potential><o::catchment><::of><::over><::10000><o::customers>
+<sot1><::If><::we><s::located><::the><o::wind><t::farm><::here><::,><::from><1::where><::would><::it><::be><::visible>
+<st2orq><::If><::we><s::locate><::a><t::store><::here><::,><2::what><::would><::be><::the><o::impact><r::on><::our><q::closest><::existing><::store>
+<6potrnot><6::How many luxury hotels><p::many><o::luxury><t::hotels><::are><::there><r::in><n::Happy Valley><o::ski><t::resort>
+<1otrornot><1::Where><::are><::the><o::luxury><t::hotels><r::with><::more><::than><::20><o::bedrooms><r::in><n::Happy Valley><o::ski><t::resort>
+<1trtrnot><1::Where><::are><::the><t::areas><r::of><t::forestry land><r::in><n::Happy Valley><o::ski><t::resort>
+<3trrqtrnot><3::Which hotels><t::hotels><::are><r::within><::200><::m><r::of><q::main><t::road><r::in><n::Happy Valley><o::ski><t::resort>
+<3tooqts><3::In which land use types><t::land><o::use><o::types><::are><::the><q::meteorological><t::stations><s::located>
+<3trqto><3::Which roads><t::roads><::should><::be><::used><r::for><::a><q::scenic><t::forest><o::drive>
+<2qtoornt><2::What><::is><q::predominant><t::land><o::use><o::type><r::in><n::the Happy Valley><t::resort>
+<1pots><1::Where><::could><::a><p::new><o::ski><t::piste><::be><s::located>
+<2orpot><2::What><::is><::the><::predicted><o::snowfall><r::for><::the><p::new><o::ski><t::piste>
+<2portrortrpot><2::What><::would><::be><::the><p::quickest><o::route><r::by><t::road><r::from><::the><o::center><r::of><::the><t::resort><r::to><::this><p::new><o::ski><t::piste>
+<2oorpot><2::What><::are><::the><o::slope><::and><o::aspect><r::of><::the><p::new><o::ski><t::piste>
+<1pot><::From><1::where><::will><::the><p::new><o::ski><t::piste><::be><::visible>
+<2ortoootrnt><2::What><::is><o::relationship><r::between><t::hotel><o::room><o::prices><::and><o::proximity><::to><t::ski lift stations><r::in><n::the Happy Valley><t::resort>
+<2popoorosrnt><2::What><::is><p::quickest><o::route><::for><p::ski><o::bus><::to><::pick><::up><::5><o::sets><r::of><o::customers><s::scattered><r::across><n::Happy Valley><t::resort>
+<3otooaoooooooooo><3::Which ski pistes><o::ski><t::pistes><::are><::in><::the><o::avalanche><o::danger><::zones><a::given><o::recordings><::of><o::snow><o::depth><::,><o::surface><o::temperature><o::snow><o::water><o::content><::and><o::snow><o::strength>
+<2orort><2::What><::is><::the><o::pattern><r::of><o::accidents><r::on><t::ski pistes>
+<2otsrn><2::What visitor facilities><o::visitor><t::facilities><::are><s::located><r::in><n::the Happy Valley>
+<2ortrto><2::What><::is><::the><o::effect><r::of><t::road><::widening><r::on><::surrounding><t::land><o::uses>
+<2poopoo><2::What><::will><::be><::the><p::long><::-><o::term><o::consequences><::of><::continuing><p::recreational><o::activity><::for><::the><o::landscape>
+<1oposppos><1::Where><::will><o::damage><::from><p::acid><o::rain><s::occur><::if><::a><p::particular><p::industrial><o::plant><::continues><::to><s::operate>
+<1ts><1::Where><::should><t::landscape conservation zones><::be><s::established>
+<1qtopoo><1::Where><::is><::the><q::best><t::location><::for><::the><::re><::-><o::introduction><::of><p::certain><o::bird><o::species>
+<2otpsoao><2::What landscape locations><o::landscape><t::locations><::are><p::likely><::to><s::retain><o::water><a::given><o::topography>
+<2ooatpooo><2::What><::is><::the><::estimated><o::casualty><::from><::a><o::tsunami><a::given><::affected><t::coastlines><::in><p::high><::-><o::resolution><o::satellite><o::imagery>
+<2tornn><2::What><::are><::the><t::areas><::covered><::by><o::cameras><r::in><n::Salford><::,><n::England>
+<2trpospoot><2::What><::are><::the><t::locations><r::of><p::potential><o::bus><::stops><::that><s::maximize><::the><p::overall><o::population><o::catchment><t::area>
+<2orn><2::What><::are><::the><::zoning><o::categories><r::in><n::Utrecht>
+<3opsao><3::Which trees><o::trees><::are><p::ready><::to><::be><s::harvested><a::given><::tree><o::age>
+<2porqtrn><2::What political parties><p::political><o::parties><::are><::favored><r::in><q::different><t::counties><r::of><n::the United States>
+<2oornd><2::What><::is><::the><o::crime><o::distribution><r::in><n::Amsterdam><::in><d::2018>
+<1qtratspoo><1::Where><::is><::a><q::suitable><t::place><r::for><a::opening><::a><t::bank><s::based><::on><::the><p::mean><o::center><::of><o::customers>
+<3topospoo><3::Which bank branch><t::bank><o::branch><::is><p::suitable><::to><::schedule><::a><o::meeting><s::based><::on><::the><p::mean><o::center><::of><o::employees>
+<1qtatorn><1::Where><::is><::a><q::suitable><t::place><::to><a::build><::three><t::library><o::branches><r::in><n::Oleander city>
+<3tartrn><3::Which areas><t::areas><::are><::not><a::serviced><r::by><t::libraries><r::in><n::Oleander>
+<1qtraotspoorn><1::Where><::are><q::suitable><t::places><r::for><a::building><::a><o::fire><t::station><::that><::can><::quickly><s::respond><::to><::the><p::highest><::-><o::priority><o::calls><r::in><n::Fort Worth>
+<1notaqooo><1::Where><::does><n::Fort Worth><o::police><t::department><a::assign><q::specific><o::task><o::force><::to><::deal><::with><::most><::dangerous><o::crimes>
+<1qtatppo><1::Where><::is><::a><q::suitable><t::place><::to><a::open><::an><t::office><::that><::is><p::nearest><::to><::their><p::best><o::customers>
+<1qtooppo><1::Where><::is><::a><q::suitable><t::place><::to><o::schedule><o::meetings><::can><::be><p::closest><::to><p::most><o::employees>
+<3otapopoorn><3::Which police stations><o::police><t::stations><::are><a::making><p::more><o::runs><::outside><::of><::their><p::normal><o::alarm><o::territory><r::in><n::Fort Worth>
+<2onorn><2::What><::is><::the><o::distribution><::of><n::West Nile><o::Virus><r::in><n::US>
+<tpooortrn><::Do><t::freeways><::have><p::directional><::on><o::influence><o::fire><o::responses><r::of><t::fire stations><r::in><n::Fort Worth>
+<2poorn><2::What><::is><::the><p::directional><o::trend><::in><o::crimes><r::in><n::Fort Worth>
+<2poooosoo><2::What><::are><p::directional><::on><o::trends><::in><o::animal><o::migration><::or><o::grazing><s::based><::-><o::tracking><o::data>
+<2poorn><2::What><::are><::the><p::single><o::family><::zoning><o::categories><r::in><n::Utrecht>
+<2oootorn><2::What><::is><::the><o::rate><::of><o::water><o::removal><::with><t::water wells><::from><::an><o::aquifer><r::in><n::Amsterdam>
+<2pporqtrn><2::What><::is><::the><p::total><p::linear><o::mileage><r::of><::the><q::asphalt><t::streets><r::in><n::Utrecht>
+<2pooaotorn><2::What><::is><::the><p::monthly><o::rate><::of><o::arsons><a::given><::all><o::fire><t::department><o::responses><r::in><n::Groningen>
+<2orpporpotopornn><2::What><::is><::the><o::relationship><r::between><::the><p::average><p::monthly><o::sales><r::of><::the><p::Hispanic><o::specialty><t::stores><::and><::the><o::distribution><::of><::the><p::Hispanic><o::population><r::in><n::Tarrant County><::,><n::Texas>
+<2ortrtooorn><2::What><::is><::the><o::relationship><r::between><::the><t::locations><r::of><t::stores><::and><::the><o::population><o::income><o::levels><r::in><n::Amsterdam>
+<2tqoorn><2::What intersections><t::intersections><::are><::more><q::prone><::to><o::auto><o::accidents><r::in><n::Utrecht>
+<2oornn><2::What><::is><::the><o::population><o::distribution><r::in><n::Tarrant County><::,><n::Texas>
+<2ooornn><2::What><::is><::the><o::population><o::distribution><::by><o::age><r::in><n::Tarrant County><::,><n::Texas>
+<2oortrnaooo><2::What><::is><::the><o::construction><o::trend><r::in><::the><t::city><r::of><n::Oleander><a::given><o::construction><o::years><::of><::dwelling><o::units>
+<2opporn><2::What><::is><::the><o::concentration><::of><p::various><p::ethnic><o::groups><r::in><n::Amsterdam>
+<3tppoorn><3::Which parks><t::parks><::do><::have><::the><p::highest><p::monthly><o::concentration><::of><o::birds><r::in><n::Texas>
+<5oosoornt><5::How><::does><o::tractor><o::traffic><s::compare><::to><o::auto><o::traffic><r::on><n::Texas><t::roads>
+<2oordrotrn><2::What><::are><::the><o::crime><o::rates><r::for><d::this and last years><r::in><::each><o::police><t::district><r::of><n::Texas>
+<2ooportrn><2::What><::are><::the><o::election><o::results><::for><p::individual><o::candidates><r::in><::each><t::precinct><r::of><n::Dallas>
+<2ooaropoportrn><2::What><::are><::the><o::portions><::of><o::energy><a::coming><r::from><o::oil><::,><p::natural><o::gas><::and><p::nuclear><o::power><r::in><::each><t::state><r::of><n::the United States>
+<2oorotrnqqot><2::What><::is><o::population><o::density><r::by><o::census><t::block><r::in><::the><n::Dallas><::/><::Fort><q::Worth><q::metropolitan><o::service><t::area>
+<2oorornqqot><2::What><::is><::the><o::density><::of><o::robberies><r::for><::each><o::police><::beat><r::in><n::Dallas><::/><::Fort><q::Worth><q::metropolitan><o::service><t::area>
+<2tpoooporn><2::What><::are><::the><t::areas><::with><p::high><o::population><o::density><::and><o::concentration><::of><p::rental><o::units><r::in><n::Utrecht>
+<2ooporn><2::What><::is><::the><o::dot><o::density><::of><p::rental><o::units><r::in><n::Utrecht>
+<2oooprporaortrn><2::What><::is><::the><o::dot><o::density><::of><::registered><o::voters><p::relative><r::to><::the><p::total><o::population><r::of><a::voting><o::age><r::per><t::precinct><r::in><n::Dallas>
+<2oortrn><2::What><::is><::the><o::density><::of><o::trees><r::in><t::parks><r::in><n::Oleander>
+<2oooo><2::What><::is><::the><o::density><::of><o::elms><::and><::crape><o::myrtles><::in><o::Oleander>
+<2ooosrt><2::What><::is><::the><o::density><o::surface><::of><o::rainfall><s::based><r::on><::measuring><t::stations>
+<2oooorn><2::What><::is><::the><o::concentration><::of><o::fire><o::incident><o::calls><r::in><n::Oleander>
+<2pooorn><2::What><::are><::the><p::directional><o::trends><::for><::each><o::year><o::tornadoes><r::in><n::Oleander>
+<2ttsorn><2::What areas><t::areas><::do><::have><::too><::few><t::roads><::to><s::handle><::the><o::traffic><r::in><n::Oleander>
+<1oosrn><1::Where><::are><o::fire><o::calls><::highly><s::clustered><r::in><n::Fort Worth>
+<2ororntooo><2::What><::is><::the><o::relationship><r::between><o::clusters><r::of><n::West Nile Virus><::and><::the><t::locations><::of><o::food><::and><o::water><o::sources>
+<1osoorn><1::Where><::are><::the><o::customers><::highly><s::clustered><::for><::a><o::pizza><o::chain><r::in><n::Amsterdam>
+<oosrtrn><::Are><o::fire><o::calls><::randomly><s::distributed><r::among><t::city blocks><r::in><n::Fort Worth>
+<2oooooo><2::What><::is><::the><o::relationship><::between><o::clusters><::of><o::fire><o::calls><::and><o::population><o::density>
+<1pooos><1::Where><::are><::the><p::high><o::output><o::oil><::-><o::well><s::clustered>
+<1opoorn><1::Where><::are><::the><o::clusterings><::of><p::low><::-><o::income><o::household><r::in><n::Netherlands>
+<1qqtoorn><1::Where><::are><::the><q::hot><::or><q::cold><t::spots><::of><o::crime><o::frequency><r::in><n::Amsterdam>
+<2ortoortrn><2::What><::is><o::acreage><r::for><::each><t::land><::-><o::use><o::type><r::in><::a><t::region><r::of><n::Oleander>
+<3oaooorn><3::Which properties><o::properties><::may><::be><a::affected><::by><::the><o::Independence><o::Day><o::parade><r::in><n::Washington D.C.>
+<2ossaoot><2::What pipes><o::pipes><::do><s::need><::to><::be><s::inspected><a::given><::clogged><o::storm><o::drain><t::inlets>
+<6ttrtrn><6::How many land parcels><t::land><t::parcels><::are><r::in><::the><t::floodplain><r::in><n::Oleander>
+<2qtrtrtrn><2::What><::the><q::total><t::area><r::of><t::land><::is><r::inside><::the><t::floodplain><r::in><n::Oleander>
+<2ortrtortrn><2::What><::is><::a><o::breakdown><r::of><::the><t::area><r::of><t::land><o::use><r::inside><::the><t::floodplain><r::in><n::Oleander>
+<6ootsaoroar><6::How many poll workers><o::poll><o::workers><::do><::each><t::precinct><s::need><a::given><::the><o::number><r::of><o::households><::that><a::fall><r::within><::each><::precinct>
+<2oortrn><2::What><::are><::the><o::attendance><o::boundaries><r::for><::the><t::schools><r::in><n::Oleander>
+<2oarortrn><2::What properties><o::properties><::may><::be><a::affected><r::by><::cleaning><o::works><r::at><::the><t::creeks><r::in><n::Oleander>
+<3oosrtoo><3::Which property owners><o::property><o::owners><::do><s::need><::to><::be><::notified><r::around><::the><t::area><::of><::proposed><o::zoning><o::change>
+<2ortooroto><2::What><::is><::the><o::percentage><r::of><::each><t::land><::-><o::use><o::type><r::inside><::the><o::notification><t::zone><::for><::zoning><o::change>
+<2trpoottt><2::What><::are><::the><t::zones><r::of><p::strict><o::drug><o::enforcement><::around><t::schools><::,><t::playgrounds><::and><t::arcades>
+<2qtrto><2::What><::is><::a><q::quite><t::zone><r::around><::a><t::hospital><::that><::should><::be><::enforced><::by><o::police>
+<2oopoort><2::What property owners><o::property><o::owners><::do><p::own><o::access><o::easement><r::to><::the><t::lakeshore>
+<6tartoaoor><6::How much of the city><t::city><::is><a::affected><r::by><t::street><o::noise><a::given><::the><o::noise><o::coefficients><r::for><::each><::street><::in><::the><::city>
+<2oroooortrt><2::What><::is><::the><o::relationship><r::between><::the><o::speed><o::limit><::and><::the><o::noise><o::coefficients><r::for><::each><t::street><r::in><::the><t::city>
+<trtattoo><::How><::lit><::are><::the><t::areas><r::of><::the><t::city><a::given><t::locations><::of><t::street><o::lights><::and><::their><o::wattage>
+<1troooaorotsoooo><1::Where><::are><::the><t::houses><r::within><::1><o::minute><::,><::2><o::minutes><::and><::3><o::minutes><a::driving><o::time><r::from><::each><o::fire><t::station><s::assuming><::a><o::fire><o::truck><o::averages><::about><::30><o::mph>
+<2ootrtrot><2::What><::are><::the><o::noise><o::mitigation><t::zones><r::around><::each><t::runway><r::in><o::Schiphol><t::airport>
+<d6orortpo><::Within><d::the last month><::,><6::how many calls><o::calls><::were><::answered><r::by><::a><o::crew><r::from><::a><t::station><::that><::was><::not><::the><p::closest><::to><::the><o::scene>
+<5oooooo><5::How><::does><::the><o::nearness><::of><::a><o::property><::to><o::fire><o::hydrants><::affects><::its><o::insurance><o::rate>
+<2troaorooatorn><2::What areas><t::areas><::are><::not><r::within><::the><::3><o::minutes><::of><a::driving><o::time><r::for><::a><o::fire><o::truck><a::given><::a><t::road><o::network><r::in><n::Oleander>
+<6toooaorotatorn><6::How many buildings><t::buildings><::are><::within><::1><o::minute><::,><::2><o::minutes><::and><::3><o::minutes><::of><a::driving><o::time><r::from><::a><o::fire><t::station><a::given><::a><t::road><o::network><r::in><n::Oleander>
+<2ooororot><2::What><::is><::the><o::spread><::of><o::plumes><::over><o::time><r::from><::a><o::fire><r::in><::a><o::match><t::factory>
+<2tstororot><2::What buildings><t::buildings><::may><::be><s::situated><::within><::the><t::area><::of><o::plumes><r::from><::a><o::fire><r::in><::a><o::match><t::factory>
+<5oooo><5::How><::does><::the><o::flood><o::level><o::change><::over><o::time>
+<5oao><5::How><::did><::the><o::population><a::change><::over><o::time>
+<5ttao><5::How><::did><::a><t::river><t::delta><a::spread><::over><o::time>
+<5toooo><5::How><::did><t::areas><::of><o::soil><o::erosion><o::change><::over><o::time>
+<5otooooo><5::How><::did><o::tornado><t::location><::,><o::strength><::and><o::wind><o::speed><o::change><::over><o::time>
+<3taao><3::Which buildings><t::buildings><::were><a::affected><::by><::the><a::changing><o::tornado>
+<5oooooa><5::How><::did><::the><o::population><::of><::an><o::animal><o::herd><o::change><::as><::the><o::animals><a::moved>
+<2tpopoaod><2::What><::are><::the><t::areas><::with><p::single><::-><o::family><p::residential><o::properties><::that><::have><a::decreased><::in><o::value><::more><::than><::3><::%><::since><d::2004>
+<2tooao><::In><2::what areas><t::areas><::did><::the><o::literacy><o::rate><::show><::a><a::decreasing><o::trend>
+<5oortoo><5::How><::did><::the><o::water><o::levels><r::in><::a><t::lake><o::change><::each><o::month>
+<2portrn><2::What><::is><::the><p::residential><o::density><r::per><t::neighborhood><r::in><n::Ghent>
+<2ortrn><2::What><::is><::the><o::connectivity><r::of><::each><t::neighborhood><r::in><n::Ghent>
+<2toortrn><2::What><::is><::the><t::land><::-><o::use><o::mix><r::in><::each><t::neighborhood><r::in><n::Ghent>
+<2ornntrn><2::What><::is><o::bikeability><r::in><n::the Metro Vancouver><n::the Metro Vancouver><t::region><r::of><n::Canada>
+<2ooornntrn><2::What><::is><o::bicycle><o::route><o::density><r::in><n::the Metro Vancouver><n::the Metro Vancouver><t::region><r::of><n::Canada>
+<2oooonntrn><2::What><::is><o::degree><o::bicycle><o::route><o::separation><n::Metro Vancouver><n::Metro Vancouver><t::region><r::of><n::Canada>
+<2ooqtrnntrn><2::What><::is><o::connectivity><o::bicycle><::-><q::friendly><t::streets><r::in><n::the Metro Vancouver><n::the Metro Vancouver><t::region><r::of><n::Canada>
+<2ooqtnntrn><2::What><::is><o::topography><o::bicycle><::-><q::friendly><t::streets><n::the Metro Vancouver><n::the Metro Vancouver><t::region><r::of><n::Canada>
+<2ooorootrn><2::What><::is><::the><o::destination><o::density><::for><o::cyclists><r::in><::the><o::Metro><o::Vancouver><t::region><r::of><n::Canada>
+<5poos><5::How><::can><p::future><o::crop><o::yields><::be><s::predicted>
+<2oppooporn><2::What><::is><::the><o::impact><::of><p::low><::and><p::high><o::population><o::densities><::on><::the><p::green><o::infrastructure><r::of><n::Addis Ababa>
+<3qtsoqtaooorn><3::Which future settlements><q::future><t::settlements><::might><::be><s::located><::in><o::flood><::-><q::prone><t::areas><a::given><o::increase><::in><::both><o::population><::and><o::density><r::in><n::Addis Ababa>
+<2ootrn><2::What><::is><::the><o::accessibility><::of><o::population><::to><t::primary schools><r::in><n::Rotterdam>
+<6oortrn><6::How many choices><o::choices><::do><::the><o::population><::have><r::in><::accessing><t::primary schools><r::in><n::Rotterdam>
+<6tsoorn><6::How optimal><::are><t::primary schools><s::distributed><::with><o::respect><::to><::the><o::population><r::in><n::Rotterdam>
+<2otopoporn><2::To what extent><o::extent><::are><t::residential sites><::for><o::people><::with><p::intellectual><o::disabilities><::and><p::physical><o::disabilities><::spatially><::dispersed><r::in><n::Pennsylvania>
+<troostrnrqqpoto><::Are><t::residential sites><r::for><o::people><::with><::ID><::and><o::people><::with><::PD><s::located><::in><t::neighborhoods><r::of><n::Pennsylvania><r::with><q::similar><::or><q::different><p::sociodemographic><o::characteristics><::that><::affect><t::community><o::inclusion>
+<opopotortrnoo><::Are><o::there><::urban><::-><p::suburban><o::differences><::in><p::spatial><o::clustering><::and><t::neighborhood><o::characteristics><r::of><t::residential sites><r::of><n::Pennsylvania><::for><o::people><::with><::ID><::and><o::people><::with><::PD>
+<2poorooooootoo><2::What><::is><::the><p::urban><o::population><::in><o::China><::estimated><r::from><o::radiance><::corrected><o::DMSP><::-><o::OLS><o::night><o::time><o::light><::and><t::land><o::cover><o::data>
+<2pooooornn><2::What><::are><::the><::spatio><::-><p::temporal><o::dynamics><::of><o::carbon><o::emissions><::and><o::carbon><o::sinks><r::in><n::Guangdong Province><::,><n::South China>
+<6tttsooornn><6::How much><::do><t::forest><t::land><::and><t::grassland><s::contribute><::to><o::vegetation><o::carbon><o::storage><r::in><n::Guangdong><::,><n::South China>
+<2ppoortrnn><2::What><::is><p::annual><p::direct><o::carbon><o::emission><r::from><t::paddy fields><r::in><n::Guangdong><::,><n::South China>
+<2ppoopornn><2::What><::is><p::annual><p::indirect><o::carbon><o::emission><::from><p::agricultural><o::activities><r::in><n::Guangdong><::,><n::South China>
+<2tqrtrno><2::What><::are><::the><t::sites><q::suitable><r::for><t::metro stations><r::in><n::Karbala><::,><o::Iraqi>
+<2pooopono><2::What><::is><::the><p::spatial><o::access><::to><o::outpatient><o::services><p::relative><::the><o::demand><::in><n::Tuscany><::,><o::Italy>
+<2oornrnsno><2::What><::is><::the><o::population><o::density><r::in><n::the Banten province><::,><r::in><n::Indonesia><s::based><::on><n::IndoPop><o::data>
+<2oopooornn><2::To what extent><o::extent><::are><o::there><p::regional><o::differences><::in><o::population><o::distribution><r::in><n::the Yunnan province><::,><n::China>
+<5toodrqtrnrn><5::How><::did><t::land><::-><o::use><o::change><d::between 1993 and 2007><r::at><::the><q::urban><t::area><r::of><n::Yogyakarta><r::in><n::Indonesia>
+<3portoorqtrnrn><3::Which><::are><::the><p::determinant><o::factors><r::in><::the><t::land><::-><o::use><o::change><r::in><::the><q::urban><t::area><r::of><n::Yogyakarta><r::in><n::Indonesia>
+<2otrtoorqrnrn><2::What><::are><::the><o::factors><::determining><::the><t::area><r::of><t::land><::-><o::use><o::change><r::in><::the><q::urban><::area><r::of><n::Yogyakarta><r::in><n::Indonesia>
+<2ostrtoorqtrnrn><2::What><::are><::the><o::factors><s::determining><::the><t::location><r::of><t::land><::-><o::use><o::change><r::in><::the><q::urban><t::area><r::of><n::Yogyakarta><r::in><n::Indonesia>
+<2poooornn><2::What><::is><::the><p::spatial><o::probability><o::distribution><::of><o::robberies><::in><o::buses><r::in><n::Salvador><::,><n::Brazil>
+<2osoooornn><2::What><::are><::the><o::factors><s::determining><::the><o::potential><::for><::the><o::occurrence><::of><o::robberies><::in><o::buses><r::in><n::Salvador><::,><n::Brazil>
+<5qqtsrnn><5::How><::are><q::small><q::touristic><t::businesses><::spatially><s::distributed><r::in><n::the Gilan province><::,><n::Iran>
+<2pooooooornnn><2::What><::is><::the><p::geographic><o::accessibility><::to><o::family><o::physician><::and><o::nurse><o::practitioner><o::services><::for><o::seniors><r::in><n::Saskatchewan><::and><n::Alberta><::,><n::Canada>
+<2oooqqoorportrnt><2::To what extent><o::extent><::are><o::there><o::differences><::in><q::spatial><::-><q::temporal><o::fixity><::and><o::flexibility><r::between><p::different><o::types><r::of><t::residential communities><r::in><n::Beijing><t::suburbs>
+<2orportqooornn><2::What><::is><::the><o::influence><r::of><::the><p::spatial><o::distribution><r::of><t::neighborhood><q::violent><o::crime><::on><o::fear><::of><o::crime><r::in><n::East Baton Rouge Parish><::,><n::US>
+<5pooorptssppopoo><5::How><::can><::the><p::main><o::center><::and><o::sub><::-><o::centers><r::of><::a><p::polycentric><t::city><::be><s::identified><s::based><::on><p::nighttime><p::light><o::imagery><::and><p::social><o::media><o::data>
+<5qtspopo><5::How><::can><q::human><t::settlements><::be><s::identified><::using><p::remote><o::sensing><::on><::a><p::global><o::scale>
+<2portoooon><2::What><::is><::the><p::spatial><o::access><r::to><::private><::and><::public><t::hospitals><::in><o::West><o::Sichuan><::and><o::East><o::Sichuan><::,><n::China>
+<1tpoornno><1::Where><::are><::the><t::sites><::that><::are><::most><p::suitable><::for><o::marina><o::construction><r::in><n::Istanbul><::â€™s><n::Marmara Sea><o::shoreline>
+<5ooqtosoorqornn><5::How><::can><o::parking><o::availability><::be><::estimated><::for><q::unobserved><t::road><o::segments><s::based><::on><o::sensor><o::data><r::from><q::observed><::road><o::segments><r::in><n::San Francisco><::,><n::US>
+<2popooooornn><2::What><::is><::the><p::spatial><o::accessibility><::to><p::public><o::buses><::,><o::trams><::and><o::trains><::from><o::points><::of><o::interests><r::in><n::Melbourne><::,><n::Australia>
+<2ortooopooonrn><2::What><::are><o::impact><r::of><t::land><::and><o::use><o::population><::on><o::density><p::seasonal><o::surface><o::water><o::quality><n::the Wen - Rui Tang River><r::in><n::China>
+<2qqtoornrdrn><2::What><::was><::the><q::historical><q::spatial><t::land><o::use><o::pattern><r::for><n::Jiangsu Province><r::during><d::the mid - Qing Dynasty><r::in><n::China>
+<5oooooooornn><5::How><::do><o::connectivity><::,><o::directness><::and><o::topology><::of><::a><o::network><::affect><::the><o::risk><::of><o::cyclist><::-><o::vehicle><o::collision><r::in><n::Vancouver><::,><n::Canada>
+<5posrqtrnn><5::How><::are><p::economic><o::activities><s::clustered><r::within><::the><q::metropolitan><t::area><r::of><n::Shenyang><::,><n::China>
+<2porppoortoo><2::What><::are><::the><p::spatiotemporal><o::patterns><r::of><p::relative><p::healthy><o::food><o::access><r::in><::the><t::Region><::of><o::Waterloo><::,><o::Canada><::from><::2011><::to><::2014>
+<3oaooppooo><3::Which factors of the built environment><o::factors><a::built><o::environment><o::influence><::the><p::habitual><p::physical><o::activity><::of><o::children><::in><o::Delmenhorst>
+<5soooppopotooo><5::How><::to><s::predict><::and><::map><o::heat><o::risk><o::hotspots><::at><p::multiple><p::spatial><o::scales><::in><::the><p::greater><o::Vancouver><t::area><::,><o::British><o::Columbia><::,><o::Canada>
+<5sqtosoooorn><5::How><::to><s::determine><::the><q::best><t::location><::of><o::parking><s::depending><::on><o::parking><o::demand><::and><o::supply><o::balance><r::in><n::Istanbul Metropolitan Municipality>
+<2oroooaorqtrnn><2::What><::is><::the><o::relationship><r::between><::the><o::walking><o::activity><::of><::a><o::population><::and><::the><a::built><o::environment><r::of><::a><q::residential><t::neighborhood><r::of><n::Seoul><::,><n::South Korea>
+<5sosrnnntrnnrpoooort><5::How><::can><::individual><::-><s::based><o::rurality><::be><s::measured><r::in><n::Levy><::,><n::Lafayette><::and><n::Suwannee><t::counties><r::of><n::the US><n::US><r::on><p::individual><o::activity><o::space><::and><o::rurality><o::degree><r::of><t::places>
+<2oorpoorntrn><2::What><::is><::the><o::accessibility><::of><::the><o::population><r::to><::the><p::high><::-><o::speed><o::rail><r::in><::the><n::Extremadura><t::region><r::of><n::Spain>
+<2orootooornrnd><2::What><::are><::the><o::changes><r::in><::the><o::environment><::,><o::climate><t::land><::and><o::use><::land><o::cover><o::types><r::for><n::Jiangsu Province><r::of><n::China><d::between 1980 - 2012>
+<2oorportoporntn><2::What><::are><::the><o::risk><o::factors><::associated><r::with><p::physical><o::access><r::to><t::health facilities><::among><o::women><::of><p::reproductive><o::age><r::in><n::Dabat><t::district><::,><n::Ethiopia>
+<2orpootootrnttnnd><2::What><::is><::the><o::impact><r::of><p::High><::-><o::Speed><o::Rail><::on><t::land><o::cover><o::change><::in><::the><t::area><r::of><n::Atocha><t::railway><t::station><n::Madrid><::,><n::Spain><d::between 1990 and 2006>
+<5popornod><5::How><::did><::the><p::spatial><o::distribution><::of><p::domestic><o::tourism><r::in><n::South Korea><o::change><d::between 1989 and 2011>
+<5opoornod><5::How><::did><::the><o::hotspots><::of><p::domestic><o::tourism><o::activity><r::in><n::South Korea><o::change><d::between 1989 and 2011>
+<5poodpoporn><5::How><::did><p::national><o::tourism><o::policies><d::between 1989 and 2011><p::affect><o::distribution><::of><p::domestic><o::tourism><r::in><n::South Korea>
+<2opoporqt><2::What><::is><::the><o::effect><::of><p::geographic><o::proximity><::on><p::scientific><o::cooperation><r::among><q::Chinese><t::cities><::from><::1990><::to><::2010>
+<5tosaopooo><5::How><::can><t::irrigated areas><::in><o::China><::be><s::mapped><a::given><o::irrigation><p::potential><o::indices><::per><o::raster><o::cells>
+<5opoooopoo><5::How><::are><o::socio><::-><p::demographic><o::characteristics><::and><o::transportation><o::modes><::associated><::with><o::topology><::of><p::daily><o::mobility><o::patterns>
+<2orortonnnn><2::What><::is><::the><o::effect><r::of><::the><o::distribution><::on><r::of><::deprived><t::neighborhoods><o::mortality><::in><n::Glasgow><::,><n::Liverpool><::and><n::Manchester><n::England>
+<5opoooosooo><5::How><::do><o::mortality><::and><p::spatial><o::patterning><::in><::of><o::deprivation><::in><o::Glasgow><::,><o::England><s::compare><::to><o::Liverpool><::and><o::Manchester><::,><o::England>
+<2ooosporn><2::To what extent><o::extent><::are><o::variations><::in><o::fertility><s::explained><::by><p::residential><o::context><r::in><n::Britain>
+<5oorttrn><5::How><::does><o::fertility><o::vary><r::between><t::central cities><::and><t::suburban areas><r::in><n::Britain>
+<5oqtooorn><5::How><::does><o::fertility><::vary><::with><q::residential><t::area><o::size><::and><o::population><o::density><r::in><n::Britain>
+<2opooposooppo><2::To what extent><o::extent><::do><p::socioeconomic><o::characteristics><::of><o::couples><::and><p::selective><o::migrations><s::explain><o::fertility><o::variations><::between><p::various><p::residential><o::contexts>
+<2qoornrn><2::What><::is><::the><q::spatial><o::distribution><::of><::aging><o::populations><r::in><n::the Aichi Prefecture><r::in><n::Japan>
+<2ooppornn><2::What><::is><::the><::aging><o::population><o::ratio><::at><p::different><p::areal><o::units><r::in><n::the Aichi prefecture><::,><n::Japan>
+<2ooppornn><2::What><::is><::the><::aging><o::population><o::density><::at><p::different><p::areal><o::units><r::in><n::the Aichi prefecture><::,><n::Japan>
+<2ooooornn><2::What><::is><::the><o::correlation><::between><::the><::aging><o::population><o::ratio><::and><::the><::aging><o::population><o::density><r::in><n::the Aichi prefecture><::,><n::Japan>
+<5aooooooorootno><5::How><::does><::the><a::built><o::environment><::and><o::weather><o::conditions><::influence><::the><o::use><::of><o::walking><::as><::a><o::mode><::of><o::transport><r::in><o::Halifax><o::Regional><t::Municipality><::,><n::Nova Scotia><::,><o::Canada>
+<2opopopoooaornnn><2::To what extent><o::extent><::do><p::average><o::temperature><::,><p::total><o::precipitation><::and><p::maximum><o::wind><o::speed><o::impact><a::walking><o::behavior><r::in><n::Halifax Regional Municipality><::,><n::Nova Scotia><::,><n::Canada>
+<2ortooooornnn><2::What><::is><::the><o::ratio><r::of><t::sidewalk><o::length><::to><::road><o::length><::at><::the><o::census><o::tract><o::level><r::in><n::Halifax Regional Municipality><::,><n::Nova Scotia><::,><n::Canada>
+<2potoooornnn><2::What><::is><::the><p::retail><o::floor><t::area><o::ratio><::at><::the><o::census><o::tract><o::level><r::in><n::Halifax Regional Municipality><::,><n::Nova Scotia><::,><n::Canada>
+<2orosroorrtnnn><2::What><::is><::the><o::number><r::of><o::people><s::living><::in><r::in><::a><o::census><o::tract><r::per><::square><::km><r::of><t::land><n::Halifax Regional Municipality><::,><n::Nova Scotia><::,><n::Canada>
+<2oroootrrnnn><2::What><::is><::the><o::ratio><r::of><::the><o::number><::of><o::four><::-><o::way><t::intersections><r::to><::all><::intersections><r::in><n::Halifax Regional Municipality><::,><n::Nova Scotia><n::Canada>
+<2porotrnn><2::What><::is><::the><p::spatial><o::structure><r::of><o::retailing><t::businesses><r::in><n::Wuhan city><::,><n::China>
+<2tooortpoornsroornorn><2::What><::are><::the><t::road><o::distances><::and><o::travel><o::times><r::from><t::residences><::of><p::cardiac><o::catheterization><o::patients><r::to><n::Foothills Medical Center><s::calculated><r::with><::the><o::Minkowski><o::metric><::applied><r::on><n::Calgary><::road><o::network><r::in><n::Canada>
+<opoooppotrnn><::Are><o::there><p::significant><o::patterns><::of><o::clustering><::in><::of><o::obesity><::and><p::moderate><p::physical><o::activity><::the><t::neighborhoods><r::of><n::Metro Vancouver><::,><n::Canada>
+<oooppoapotrnn><::Is><o::there><::an><o::association><::between><o::obesity><::and><p::moderate><p::physical><o::activity><::the><a::built><p::urban><o::environment><::in><::the><t::neighborhoods><r::of><n::Metro Vancouver><::,><n::Canada>
+<2orotorooroorn><2::What><::is><::the><o::effect><r::of><o::household><::and><t::neighborhood><o::characteristics><r::on><o::children><o::exposure><r::to><::neighborhood><o::poverty><::and><o::affluence><r::in><n::US>
+<2opoopoornn><2::What><::is><::the><o::accessibility><::of><p::affordable><::for><o::grocery><o::foods><p::low><::-><o::income><o::residents><r::in><n::Buffalo><::,><n::US>
+<tornnpoo><::Which><t::road><o::sections><r::in><n::Shenzhen city><::,><n::China><::are><p::potential><o::traffic><o::bottlenecks>
+<2oporoortrntoqtrn><2::What><::is><::the><o::level><::of><p::geographical><o::heterogeneity><r::in><::the><o::risk><::of><::mistimed><::and><::unwanted><o::pregnancies><r::between><::rural><::and><::urban><t::communities><r::of><n::Savannah><::,><t::Forest><::and><o::Coastal><q::ecological><t::zones><r::in><n::Ghana>
+<2oopotrtrnnrnn><2::What><::are><::the><o::traffic><o::volumes><::on><p::low><::-><o::class><t::roads><r::in><t::areas><r::of><n::York County><::and><n::Beresford><r::in><n::New Brunswick><::,><n::Canada>
+<5aooooosooornn><5::How well><::can><a::built><o::environment><::,><o::population><o::characteristics><::and><o::travel><o::behavior><s::predict><o::vehicle><::-><o::pedestrian><o::collisions><r::in><n::San Francisco><n::US>
+<3ostortrtrnn><3::Which factors><o::factors><s::influence><::the><t::location><o::choice><r::of><t::business establishments><r::in><::the><t::city><r::of><n::Hamilton><::,><n::Canada>
+<5tqotooqtoodonn><5::How have><t::district><q::boundary><o::lines><::and><t::school><o::desegregation><o::policy><::impacted><q::metropolitan><::school><::and><t::housing><o::integration><::on><o::levels><::over><d::the past two decades><::the><o::South><::of><::US><::(><n::Richmond Metro><::,><::Louisville><::-><::Jefferson><::County><::Charlotte><::Mecklenburg><::County><::,><n::Chattanooga - Hamilton County><::)>
+<5tqotooqtoood><5::How have><t::district><q::boundary><o::lines><::and><t::school><o::desegregation><o::policy><::impacted><q::metropolitan><::school><::and><t::housing><o::integration><o::levels><::on><::the><o::South><::of><::US><d::between the years 1990 and 2010>
+<2porttoornd><2::What><::are><::the><p::spatial><o::trends><r::of><t::school><::and><t::housing><o::segregation><::on><::the><o::South><r::of><n::US><d::between 1990 and 2010>
+<opopornnrnd><::Is><o::there><p::racial><o::isolation><::for><p::black><o::residents><r::on><n::the South><n::South><r::of><n::US><d::between 1990 and 2010>
+<2orportotood><2::What><::is><::the><o::difference><r::between><::the><p::racial><o::composition><r::in><t::elementary school><::and><o::census><t::block><o::groups><::on><::the><o::South><::of><::US><d::1990><::,><::2010>
+<orqqqtpotporqrn><::Does><::the><o::presence><r::of><q::non><q::-><q::neighborhood><t::schools><::(><p::private><::,><o::charter><::and><t::magnet schools><::)><::affect><p::racial><o::segregation><r::in><q::public><::schools><r::in><n::US>
+<5portqtrn><5::How><::does><p::racial><o::segregation><::differ><r::between><t::public neighborhood schools><::and><::their><q::catchment><t::areas><r::in><n::US>
+<3tpoo><3::Which countries><t::countries><::are><::more><p::dependent><::on><o::tourism><o::industries>
+<5sqtornpoo><5::How><::to><s::plan><q::urban><t::land><o::use><r::of><n::Shanghai><::to><::minimize><p::ecological><o::heterogeneity><::using><o::GIS>
+<1qtsrn><1::Where><::is><::the><q::residential><t::area><s::located><r::in><n::Shanghai>
+<1ootrn><1::Where><::are><::the><o::nature><o::reserves><::and><t::forest areas><r::in><n::Shanghai>
+<1otsrn><1::Where><::are><::the><o::industry><t::areas><s::located><r::in><n::Shanghai>
+<2poopporn><2::What><::is><::the><p::spatial><o::distribution><o::pattern><::of><p::heterogeneous><p::ecological><o::conditions><r::of><n::Shanghai>
+<2ororqqt><2::What trends><o::trends><::are><::there><r::in><::agricultural><::and><::urban><o::change><r::in><q::European><q::rural><t::areas>
+<2otppooorn><2::What><::are><::the><o::effects><::on><t::rural landscapes><::of><p::agricultural><p::structural><o::changes><::and><o::counter><::-><o::urbanization><r::in><n::Denmark>
+<5ssoppoorqn><5::How><::to><s::measure><::and><s::evaluate><o::access><::to><p::sexual><::and><p::reproductive><o::health><o::services><r::in><q::rural><n::Mozambique>
+<2oppooorqn><2::What><::is><::the><o::accessibility><::of><p::sexual><::and><p::reproductive><o::health><::(><o::SRH><::)><o::services><r::in><q::rural><n::Mozambique>
+<2porottttrtrnnnn><2::What><::is><::the><p::spatial><o::distribution><r::of><o::respondents><::â€™><t::residences><::,><t::health service units><::and><t::towns><::(><t::district centers><::)><r::in><::four><t::districts><r::of><n::Chibuto><::,><n::ChokwÃ¨><n::GuÃ­jÃ ><::and><n::Mandlakaze>
+<1tpootrnnnn><1::Where><::are><::the><t::clinics><::in><::with><p::lower><o::service><o::quality><::four><t::districts><r::of><n::Chibuto><::,><n::ChokwÃ¨><n::GuÃ­jÃ ><::and><n::Mandlakaze>
+<1qqoortrnnnn><1::Where><::are><::the><::less><::accessible><q::sexual><::and><q::reproductive><o::health><o::services><r::in><::four><t::districts><r::of><n::Chibuto><::,><n::ChokwÃ¨><n::GuÃ­jÃ ><::and><n::Mandlakaze>
+<3oosooo><3::Which landscape indicators><o::landscape><o::indicators><::can><::be><s::used><::for><::the><o::evaluation><::of><o::tourist><::landscape><o::structure>
+<2poppoornn><2::What><::is><::the><p::long><::-><o::term><p::spatio><p::temporal><o::landscape><o::change><r::in><n::Kos Island><::,><n::Greece>
+<2orooortrnd><2::What><::are><::the><o::changes><r::of><o::landuse><o::categories><o::distribution><r::in><::the><t::district><r::of><n::Kefalos><::for><d::the years 1981 , 1995 and 2002>
+<2oroortrnd><2::What><::are><::the><o::changes><r::in><o::transport><o::networks><r::in><::the><t::district><r::of><n::Kefalos><d::from 1995 to 2002>
+<2orortrnd><2::What><::are><::the><o::changes><r::in><o::visibility><r::in><::the><t::district><r::of><n::Kefalos><d::from 1995 to 2002>
+<2portortrnt><2::What><::is><p::geographic><o::distribution><r::of><t::nonprofit organizations><::serving><o::immigrants><r::across><t::municipalities><r::within><n::Greater Boston><t::area>
+<1potrntd><1::Where><p::high><o::immigration><t::municipalities><r::in><n::Greater Boston><t::area><::in><d::2000>
+<2qtorntd><2::What><::is><q::ethnic><t::settlement><o::pattern><r::in><n::Greater Boston><t::area><::in><d::2000>
+<2ooposopospo><2::What><::are><::the><o::relationships><::between><o::population><::and><p::urban><o::growth><::by><s::analyzing><o::changes><::in><p::urban><o::form><::that><::are><s::characterized><::by><p::fractal><o::dimensions>
+<2ooponn><2::What><::are><::the><o::relationships><::between><o::population><::and><p::urban><o::growth><::in><n::Kaohsiung><::,><n::Taiwan><::from><::1980><::to><::2010>
+<2ppoporn><2::What><::is><::the><p::spatial><::-><p::temporal><o::pattern><::of><p::urban><o::growth><r::in><n::Kaohsiung><::from><::1980><::to><::2010>
+<5opoooppoooport><5::How><::are><::the><o::changes><::in><::rural><::-><p::urban><o::sex><o::ratio><o::differences><::in><::the><p::young><p::professional><::of><o::age><o::group><::an><o::indicator><p::social><o::sustainability><r::in><t::rural areas>
+<5pooodppordrn><5::How><::does><::rural><p::urban><o::sex><o::ratio><o::change><d::30 - 39-year - old><p::39-year><p::old><o::group><r::between><d::between 2000 and 2010><r::in><n::Spain>
+<1qtrqttrnot><1::Where><::are><::the><q::best><t::locations><r::for><::the><q::future><t::landfill><t::sites><r::in><::the><n::Houston><::-><o::Galveston><t::area>
+<1oornot><1::Where><::are><::the><o::water><o::resources><r::in><::the><n::Houston><::-><o::Galveston><t::area>
+<1ootrornot><1::Where><::are><::the><o::hurricane><::and><o::flooding><t::areas><r::in><::the><o::past><r::in><::the><n::Houston><::-><o::Galveston><t::area>
+<1pportttrnot><1::Where><::are><::the><p::important><p::geographic><o::features><r::like><t::schools><::,><t::hospitals><t::museums><r::in><::the><n::Houston><::-><o::Galveston><t::area>
+<2trpoorqtno><2::What areas><t::areas><::are><r::within><p::half><::-><o::mile><o::distance><r::from><q::major><t::highways><::in><::the><n::Houston><::-><o::Galveston><::area>
+<2ooornt><2::What><::is><o::travel><o::behavior><::of><o::individuals><r::in><n::the Tampa Bay><t::region>
+<2oorornt><2::What><::is><o::travel><o::behavior><r::of><o::households><r::in><n::the Tampa Bay><t::region>
+<2qoornn><2::What><::is><::the><q::individual><o::activity><o::pattern><r::in><n::the Tampa Bay Region><::,><n::Florida>
+<2orootornn><2::What><::is><::the><o::relationship><r::between><o::activity><o::density><::and><t::land><o::uses><r::in><n::the Tampa Bay Region><::,><n::Florida>
+<2oopoopooopornn><2::What><::are><::the><o::activity><o::patterns><::of><p::different><o::employment><o::groups><::like><p::full><::-><o::time><o::employment><::,><o::part><p::unemployed><::and><o::homemaker><r::in><n::Tampa Bay Region><::,><n::Florida>
+<2ooopoornn><2::What><::are><::the><o::differences><::of><o::activity><o::pattern><::between><p::retired><::and><o::student><o::groups><r::in><n::Tampa Bay Region><::,><n::Florida>
+<2oo4soooo><2::What><::is><::the><o::effect><::of><o::scale><4::when><s::analysing><o::accessibility><::and><::its><o::effects><::on><o::population><o::change>
+<ooaon><::Are><o::population><o::change><::related><::to><a::transport><o::accessibility><::in><n::Finland><::,><::1990><::-><::2008>
+<3oppo4oooooo><3::Which scales><o::scales><::have><p::good><p::predictive><o::ability><4::when><::modelling><::in><o::transport><o::accessibility><::and><::its><o::effects><::on><o::population><o::change><o::Finland><::,><::1990><::-><::2008>
+<2porqtoqornn><2::What><::is><::the><p::spatial><o::autocorrelation><r::of><q::urban><t::land><o::prices><::from><::a><q::regional><o::perspective><r::in><n::Hubei province><::,><n::China>
+<2porqtoqornn><2::What><::is><::the><p::spatial><o::distribution><r::of><q::urban><t::land><o::prices><::from><::a><q::regional><o::perspective><r::in><n::Hubei province><::,><n::China>
+<2orqtornn><2::What><::are><::the><::most><::influential><o::factors><r::to><q::urban><t::land><o::price><r::in><n::Hubei province><::,><n::China>
+<2oopoopoorn><2::What><::are><::the><o::relationships><::between><::the><o::level><::of><p::depressive><o::symptoms><::and><o::poverty><::,><p::residential><o::stability><o::crime><r::in><n::New Jersey><::from><::2006><::to><::2008>
+<2oopopoornn><2::To what extent><o::extent><::is><o::there><p::geographical><o::clustering><::of><p::criminal><o::offences><::over><o::time><r::in><n::Stockholm><::,><n::Sweden>
+<opopoornn><::Are><o::there><p::geographical><o::clusterings><::of><p::criminal><o::offences><::over><o::time><r::in><n::Stockholm><::,><n::Sweden>
+<2opoooooooooooornn><2::What><::are><::the><o::differences><::of><p::spatial><o::patterns><::of><o::concentration><::for><o::violence><::(><o::assault><::and><o::threat><::)><o::property><o::crimes><::(><o::theft><::,><o::robbery><::and><o::burglary><::)><::over><o::time><::and><o::space><r::in><n::Stockholm><::,><n::Sweden>
+<2qqortoond><2::What><::are><::the><q::temporal><::and><q::spatial><o::characteristics><r::of><t::land><o::use><o::change><::in><n::Fujian Province><::,><d::1989 - 2006>
+<1oaoo><1::Where><::are><o::clusters><::of><::in><a::injured><o::pedestrians><o::Georgia><::,><::2000><::-><::2007>
+<1oaoo><1::Where><::are><o::clusters><::of><::in><a::injured><o::pedestrians><o::Georgia><::,><::2000><::-><::2007>
+<5aooo><5::How><::are><::in><a::injured><o::pedestrians><::influenced><::by><::personal><::and><::environmental><o::factors><o::Georgia><::,><::2000><::-><::2007>
+<5stoornqt><5::How><::to><::measure><::and><s::monitor><t::urban sprawl><::and><o::carbon><o::footprint><r::in><n::Phoenix><q::metropolitan><t::area>
+<5tssrnn><5::How><::can><t::ethnoburbs><::be><s::identified><::and><s::characterized><r::in><n::Auckland><::,><n::New Zealand>
+<1pppopporn><1::Where><::are><p::Chinese><::,><p::Indian><p::Korean><o::Filipino><p::Japanese><::and><p::Cambodian><o::clusters><r::in><n::Auckland><::from><::1991><::to><::2006>
+<3qttoorqtooorn><3::Which large area land cover dataset that><q::large><t::area><t::land><o::cover><o::dataset><::,><::combined><r::with><q::detailed><t::settlement><o::extents><::produces><::the><::most><::accurate><o::population><o::distribution><::data><r::in><n::Kenya>
+<2oo><2::What><::are><::the><o::methods><::for><::modeling><o::population>
+<5soooppoornd><5::How><::to><s::analyze><::the><o::population><o::density><o::patterns><::by><p::various><p::spatial><o::analysis><o::methods><r::in><n::China><::,><d::1953 - 2000>
+<2pooorn><2::What><::are><::the><p::possible><::influencing><o::factors><::for><o::population><o::change><r::in><n::China><::from><::1953><::to><::2000>
+<2ooornd><2::What><::are><::the><o::characteristics><::of><o::population><o::distribution><r::in><n::China><::in><d::2000>
+<1pootrn><1::Where><::are><::the><p::high><o::population><o::growth><t::regions><r::in><n::China><::from><::1953><::to><::2000>
+<2popornppo><2::What><::is><::the><p::spatial><o::pattern><::of><p::various><o::industries><r::in><n::Shanghai><::from><p::spatial><p::statistical><o::perspectives>
+<2poorqtorn><2::What><::are><::the><p::spatial><o::relationships><::of><o::establishments><r::in><q::different><t::districts><::and><o::industries><r::in><n::Shanghai>
+<2osrtrn><2::What industries><o::industries><::are><s::concentrated><r::in><::the><t::suburbs><r::of><n::Shanghai>
+<5appo3sporn><5::How><::to><a::develop><::a><p::dynamic><p::spatial><o::model><3::which><::can><::be><s::used><::for><p::demographic><o::planning><r::in><n::Leeds>
+<2opooooo><2::What><::are><::the><o::changes><::in><p::spatial><o::characteristics><::of><::the><o::population><::in><o::Leeds><::from><o::2010><::to><o::2030>
+<2aoornoo><2::What><::are><::the><a::moving><o::trends><::of><o::students><r::in><n::Leeds><::from><o::2010><::to><o::2030>
+<2oornd><2::What><::are><::the><o::mortality><o::distribution><r::in><n::Leeds><::in><d::2030>
+<1pooornd><1::Where><::are><::the><p::monthly><o::hotspots><::of><o::thefts><::and><o::robberies><r::in><n::Shanghai><::in><d::2009>
+<2ppoooornd><2::What><::are><::the><p::spatial><::-><p::temporal><o::variations><::of><o::hotspots><::for><o::thefts><::and><o::robberies><r::in><n::Shanghai><::in><d::2009>
+<2opppooorportrn><2::What><::are><::the><o::impacts><::of><p::different><p::social><::-><p::economic><o::factors><::on><o::night><o::light><r::at><p::different><o::scales><r::of><t::urban areas><r::in><n::Beijing>
+<2ooqtonn><2::What><::is><::the><o::conversion><o::pattern><::of><::rural><::-><q::urban><t::land><o::use><::in><n::Nanjing><::,><n::China><::from><::2000><::to><::2004>
+<2popornn><2::What><::are><::the><p::geographical><o::patterns><::in><::the><p::cultural><o::industries><r::in><n::Los Angeles><::and><n::New York City>
+<5spootnnrnn><5::How><::to><s::identify><p::urban><o::growth><o::potential><::in><::the><t::area><n::Islamabad Zone IV><n::Islamabad><r::of><n::Islamabad><::,><n::Pakistan>
+<2pootnnnn><2::What><::is><::the><p::urban><o::growth><o::potential><::in><::the><t::area><n::Islamabad Zone IV><n::Islamabad><::of><n::Islamabad><::,><n::Pakistan>
+<5sopopoo><5::How><::to><s::map><o::socio><::-><p::economic><o::data><::(><p::e.g.><o::distribution><::of><o::population><::)><::in><::UK>
+<2oooorotorn><2::What><::are><::the><::in><o::interactions><::between><o::population><o::growth><::and><o::changes><r::in><o::water><::and><t::land><o::resources><::Original><::-><::stream><::Zone><r::of><n::the Tarim River><::from><::1994><::to><::2005>
+<2otoo><2::What><::are><::the><o::water><::and><t::land><o::use><o::changes><::in><::Original><::-><::stream><::Zone><::of><::the><::Tarim><::River><::from><::1994><::to><::2005>
+<5sspooporn><5::How><::to><s::identify><::and><s::measure><::the><p::spatial><o::structure><::and><o::intensity><::of><p::urban><o::deprivation><r::in><n::Delhi>
+<2ooporn><2::What factors><o::factors><::are><::contributed><::to><::the><o::analysis><::of><p::urban><o::deprivation><r::in><n::Delhi>
+<2qooooortrtrnqd><2::What><::is><::the><q::spatial><o::distribution><::of><o::cervix><o::cancer><o::mortality><o::rates><r::for><::118><t::counties><r::of><::four><t::states><r::in><n::the Western USA><q::Western><::over><d::1970 - 1994>
+<2poortrn><2::What><::is><::the><p::quantitative><o::risk><::zoning><o::map><r::of><::all><t::districts><r::in><n::Shanghai>
+<1qtrn><1::Where><::are><::the><q::riskiest><t::areas><r::in><n::Shanghai>
+<1qqtrn><1::Where><::are><::the><q::major><q::hazardous><t::enterprises><r::in><n::Shanghai>
+<2orqtqopoornn><2::What><::is><::the><o::association><r::between><q::urban><t::neighborhood><q::socioeconomic><o::markers><::and><p::ambient><o::air><o::pollution><r::in><n::Vancouver><::and><n::Seattle>
+<1tqoornn><1::Where><::are><::the><t::areas><::with><::a><q::high><o::concentration><::of><o::NO2><r::in><n::Vancouver><::and><n::Seattle>
+<2oppopoorntstqo><2::What><::is><::the><o::impact><::of><p::racial><p::residential><o::segregation><::on><p::low><o::birth><o::weight><r::in><::the><n::Detroit><t::area><s::using><::optimized><t::neighborhood><q::boundary><o::definitions>
+<2oppopoornt><2::What><::is><::the><o::impact><::of><p::racial><p::residential><o::segregation><::on><p::low><o::birth><o::weight><r::in><::the><n::Detroit><t::area>
+<2oopoporn><2::What><::is><::the><o::exposure><::for><o::maternal><::to><p::racial><o::isolation><::and><p::racial><o::clusters><r::in><n::the Detroit Metropolitan Area>
+<6oratrn><6::How suitable><::is><::a><o::position><r::for><a::building><::a><t::windmill><r::in><n::Amsterdam>
+<oratrn><::How><::suitable><::is><::a><o::position><r::for><a::building><::a><::charging><t::station><r::in><n::Utrecht>
+<6traotrn><6::How suitable><::is><::an><t::area><r::for><a::expanding><o::A27><t::road><r::in><n::Utrecht>
+<2tpoorotrn><2::What areas><t::areas><::do><::have><p::high><o::water><o::levels><r::near><o::A27><t::road><r::in><n::Utrecht>
+<2toorrotrn><2::What><::are><::the><t::land><o::cover><o::types><r::within><::1><::km><r::of><o::A27><t::road><r::in><n::Utrecht>
+<2oooaoo><2::To what extent><o::extent><::does><o::traffic><o::congestion><a::reduce><::because><::of><o::expansion><::of><o::A27>
+<2orn><2::What><::is><::the><o::walkability><r::of><n::Utrecht>
+<1tqrarn><1::Where><::are><::the><t::neighborhoods><::that><::are><::least><q::suitable><r::for><a::walking><r::in><n::Utrecht>
+<2ortrnpoooooo><2::What><::is><::the><o::accessibility><r::of><t::residential units><r::in><n::Utrecht city><::to><p::public><o::waste><o::collectors><::for><o::glass><::,><o::paper><o::plastic><::and><o::textile>
+<ortqoornnn><::Is><::the><o::distribution><r::of><t::health facilities><q::consistent><::with><::the><o::population><o::distribution><r::in><n::Riverside><::-><n::San Bernardino><::,><n::CA>
+<1tooosrnnn><1::Where><::are><t::facilities><::that><::provide><o::health><o::care><o::services><s::located><r::in><n::Riverside><::-><n::San Bernardino><::,><n::CA>
+<2oornnn><2::What><::is><::the><o::population><o::distribution><r::within><n::Riverside><::-><n::San Bernardino><::,><n::CA>
+<tpooportnnn><::Do><t::areas><::with><::the><p::highest><o::population><o::density><::have><::the><p::greatest><o::number><r::of><t::health care facilities><::in><n::Riverside><::-><n::San Bernardino><::,><n::CA>
+<rn1tpoooot><r::Within><n::Riverside - San Bernardino><1::where><t::areas><p::high><o::population><o::density><o::health><o::care><t::facilities>
+<2oopornn><2::What land use><o::use><::is><::on><o::top><::of><p::sandy><o::soil><r::in><n::the Netherlands><n::Netherlands>
+<2trtrnn><2::What parcels><t::parcels><::are><r::within><::the><::100-year><t::floodplain><r::in><n::the Netherlands><n::Netherlands>
+<nrn><::Is><n::the A27 highway><r::within><n::Utrecht>
